@@ -1,0 +1,36 @@
+[Desktop Entry]
+Name=Neo
+Comment=HA modern style for ZB
+
+
+
+X-KDE-PluginInfo-Author=Camilo Higuita
+X-KDE-PluginInfo-Email=kde-artists@kde.org
+X-KDE-PluginInfo-Name=default
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+
+
+[ContrastEffect]
+enabled=false
+contrast=0
+intensity=0
+saturation=10
+
+[Zynthbox]
+spacing=2
+padding=2
+radius=2
+sectionSpacing=4
+sectionPadding=4
+useBreadcrumb=false
+altVolume=true
+cellSpacing=2
+slotSpacing=4,20,4,4,4
+ghostButton=true

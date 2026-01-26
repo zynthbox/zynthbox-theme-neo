@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   height="128"
+   style=""
+   width="128"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="slider.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="arrow-up.png"
+   inkscape:export-xdpi="11.25"
+   inkscape:export-ydpi="11.25"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs107">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+            .ColorScheme-Text {
+                color:#232629;
+                stop-color:#232629;
+            }
+            .ColorScheme-Background {
+                color:#eff0f1;
+                stop-color:#eff0f1;
+            }
+            .ColorScheme-Highlight {
+                color:#3daee9;
+                stop-color:#3daee9;
+            }
+            .ColorScheme-ButtonText {
+                color:#232629;
+                stop-color:#232629;
+            }
+            .ColorScheme-ButtonBackground {
+                color:#eff0f1;
+                stop-color:#eff0f1;
+            }
+        </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview105"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:blackoutopacity="0.0"
+     showgrid="true"
+     inkscape:current-layer="groove-topleft"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="35.708893"
+     inkscape:cx="17.712675"
+     inkscape:cy="16.018419"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1133"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+  </sodipodi:namedview>
+  <g
+     id="layer1"
+     style=""
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       id="hint-tile-center"
+       height="2.077126"
+       rx="0"
+       ry="2.077126"
+       style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero"
+       width="2.0329318"
+       x="2.2599621"
+       y="4.6594176" />
+    <g
+       id="vertical-slider-handle"
+       style=""
+       transform="matrix(1.2 0 0 1.2 -2.2 27.2)"
+       inkscape:label="horizontal-slider-handle" />
+    <g
+       id="groove-top"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1636-23"
+         d="m 28 7 v 3 h 3 v -3 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path70-0"
+         d="m 28 7 v 1 h 3 v -1 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;opacity:0.7" />
+    </g>
+    <g
+       id="groove-topleft"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1626-5"
+         d="m 24 10 h 3 v -3 c -1.662 0 -3 1.338 -3 3 z"
+         style="fill:#000000" />
+      <path
+         id="path74-6"
+         d="m 27,7 h -3 v 3 h 1 V 8 h 2 z"
+         style="fill:#ffffff;opacity:0.7"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-topright"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1634-7"
+         d="m 32 10 h 3 c 0 -1.662 -1.338 -3 -3 -3 z"
+         style="fill:#000000" />
+      <path
+         id="path78-2"
+         d="m 32,7 v 1 h 2 v 2 h 1 V 7 Z"
+         style="fill:#ffffff;opacity:0.7"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-bottom"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1636-28"
+         d="m 28 15 v 3 h 3 v -3 z"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#000000" />
+      <path
+         id="path82-6"
+         d="m 28,18 v -1 h 3 v 1 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;opacity:0.7"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="groove-bottomleft"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="rect1353-2"
+         d="m 27 18 v -3 h -3 c 0 1.662 1.338 3 3 3 z"
+         style="fill:#000000" />
+      <path
+         id="path86-1"
+         d="m 24,15 v 3 h 3 v -1 h -2 v -2 z"
+         style="fill:#ffffff;opacity:0.7"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-bottomright"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1638-0"
+         d="m 35 15 h -3 v 3 c 1.662 0 3 -1.338 3 -3 z"
+         style="fill:#000000" />
+      <path
+         id="path90-8"
+         d="m 34,15 v 2 h -2 v 1 h 3 v -3 z"
+         style="fill:#ffffff;opacity:0.7"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-center"
+       style=""
+       transform="translate(-43 2)">
+      <path
+         id="path1636-92"
+         d="m 54 9 v 3 h 3 v -3 z"
+         style="fill:#000000" />
+    </g>
+    <g
+       id="groove-left"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1636-97"
+         d="m 24 11 v 3 h 3 v -3 z"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#000000" />
+      <path
+         id="path95-7"
+         d="m 24 11 v 3 h 1 v -3 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;opacity:0.7" />
+    </g>
+    <g
+       id="groove-right"
+       style=""
+       transform="translate(-17)">
+      <path
+         id="path1636-75"
+         d="m 32 11 v 3 h 3 v -3 z"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#000000" />
+      <path
+         id="path99-9"
+         d="m 34 11 v 3 h 1 v -3 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;opacity:0.7" />
+    </g>
+    <g
+       id="groove-highlight-top"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1632-6"
+         d="m 28 7 v 3 h 3 v -3 z"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="groove-highlight-topleft"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1626-12"
+         d="M 24,10 H 25.5 27 V 7 h -3 v 1.5 z"
+         style="fill:#ffffff"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-highlight-topright"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1634-9"
+         d="M 32,10 H 33.5 35 V 7 h -3 v 1.5 z"
+         style="fill:#ffffff"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-highlight-bottom"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1632-5"
+         d="m 28 15 v 3 h 3 v -3 z"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="groove-highlight-bottomleft"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="rect1353-7"
+         d="M 27,18 V 16.5 15 H 25.5 24 v 3 z"
+         style="fill:#ffffff"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-highlight-bottomright"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1638-62"
+         d="M 35,15 H 33.5 32 v 1.5 1.5 h 3 z"
+         style="fill:#ffffff"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="groove-highlight-center"
+       style="fill:#d40000"
+       transform="translate(-18 2)">
+      <path
+         id="msc"
+         d="m 29 34 v 3 h 3 v -3 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="groove-highlight-left"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1632-35"
+         d="m 24 11 v 3 h 3 v -3 z"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="groove-highlight-right"
+       style="fill:#d40000"
+       transform="translate(-17 25)">
+      <path
+         id="path1632-7"
+         d="m 32 11 v 3 h 3 v -3 z"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
