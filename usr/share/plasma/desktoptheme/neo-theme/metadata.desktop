@@ -17,8 +17,8 @@ X-Plasma-API=5.0
 [Wallpaper]
 defaultWallpaperTheme=TextureM
 defaultFileSuffix=.jpg
-defaultWidth=7759
-defaultHeight=4376
+defaultWidth=5572
+defaultHeight=3143
 
 [ContrastEffect]
 enabled=false
