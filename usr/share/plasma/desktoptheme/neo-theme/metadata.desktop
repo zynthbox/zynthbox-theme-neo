@@ -38,5 +38,5 @@ cellSpacing=2
 slotSpacing=4,20,4,4,4
 ghostButton=true
 monoColorHandles=true
-altTabs=false
+altTabs=true
 altPanels=true
